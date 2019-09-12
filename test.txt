@@ -1,2 +1,6 @@
 This is a bug.
+<<<<<<< HEAD
 
+=======
+THe bug is resloving.
+>>>>>>> dev
